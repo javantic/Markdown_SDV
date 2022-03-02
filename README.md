@@ -17,4 +17,6 @@
 [title](https://www.google.com/)
 
 `console.log("Hello World!")`
-
+-[x] Write read me repo
+-[] Update repository
+-[] Fix Bug
