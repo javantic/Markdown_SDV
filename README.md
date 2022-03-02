@@ -24,7 +24,8 @@
 That is funny! :joy:
 
 # Paragraph Header
-### The motherboard is a “CRUUS E93839” with a LGA1151 socket (also called socket H4) which supports “Skylake” and “Kaby Lake” series processors which goes from 6th generation to the 9th generation of Intel processors. 
+
+The motherboard is a “CRUUS E93839” with a LGA1151 socket (also called socket H4) which supports “Skylake” and “Kaby Lake” series processors which goes from 6th generation to the 9th generation of Intel processors. 
 
 ### The motherboard IO layout consists of:
 - 2x display port connections for video output.
